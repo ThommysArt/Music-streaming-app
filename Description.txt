@@ -1,0 +1,50 @@
+D'accord, la suite consiste à un test technique simple.
+https://www.figma.com/design/tXeyni9x55ZLjqRiGCWTUe/Dark-mode-music-player-App-(Community)?node-id=0-68&t=uND862rCKcjw1yuf-1
+
+Titre : Développement d'une Application Web de Musique
+
+CONTEXT :
+
+Vous êtes chargé de créer une application web de musique avec les fonctionnalités de base. Cette application devra comporter une interface utilisateur moderne et une API backend qui interagit avec une base de données pour gérer les informations relatives à la musique.
+
+OBJECTIFS :
+
+Frontend : Développer une interface utilisateur en utilisant React.
+Afficher une liste de morceaux de musique avec les détails tels que le titre, l'artiste, l'album, et une image de couverture.
+Permettre la recherche de morceaux par titre ou artiste.
+Afficher les détails d'un morceau sélectionné, y compris un lecteur audio pour écouter le morceau.
+Utiliser un design responsive qui s'adapte aux écrans de différentes tailles.
+
+Backend : Développer une API RESTful en utilisant Django (avec Django REST Framework).
+Créer des modèles pour les morceaux de musique, les artistes et les albums.
+Implémenter des endpoints pour obtenir la liste des morceaux, rechercher des morceaux, et obtenir les détails d'un morceau.
+Assurer la persistance des données dans une base de données relationnelle.
+
+Docker : Conteneuriser l'application frontend et backend en utilisant Docker.
+Créer des Dockerfiles et / docker-compose.yml pour les environnements de développement et de production.
+Publier les images Docker sur Docker Hub.
+
+LIVRBLES :
+
+> Frontend :
+> Code source du frontend hébergé sur GitLab.
+> Documentation sur la configuration et l'utilisation du frontend.
+> Lien vercel vers du projet
+
+> Backend :
+> Code source du backend hébergé sur GitLab.
+> Documentation sur la configuration et l'utilisation du backend.
+
+> Docker :
+> Images Docker publiées sur Docker Hub, prêtes à être utilisées pour le déploiement de l'application.
+
+
+CRITÈRES DE RÉUSSITE :
+
+L'application frontend doit être fonctionnelle et offrir une bonne expérience utilisateur.
+L'API backend doit répondre correctement aux requêtes et interagir avec la base de données.
+Les images Docker doivent être correctement configurées et publiées sur Docker Hub.
+Le code doit être bien structuré, documenté, et suivre les meilleures pratiques de développement.
+
+VOUS AVEZ 36H à compter de maintenant.
+Je vous souhaite bonne chance.
