@@ -29,6 +29,7 @@ export const SearchProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
   const searchTracks = async (query: string) => {
     try {
+        // Fetch data from Django REST api
       const response = await fetch(`/api/tracks?search=${query}`)
       const data = await response.json()
       setSearchResults(data)
